@@ -1,0 +1,1 @@
+const express = require('express'); const { generateImage } = require('../controllers/imageController'); const router = express.Router(); router.get('/shiva', generateImage); module.exports = router;
