@@ -1,0 +1,1 @@
+{ "name": "shiva-image-generator", "version": "1.0.0", "description": "A Node.js backend to generate an image of Lord Shiva", "main": "server.js", "scripts": { "start": "node server.js" }, "dependencies": { "express": "^4.17.1", "mongoose": "^5.12.3", "dotenv": "^8.2.0" }, "author": "", "license": "ISC" }
