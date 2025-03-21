@@ -1,0 +1,1 @@
+const generateImage = (req, res) => { // Logic to generate an image of Lord Shiva res.send('Image of Lord Shiva generated'); }; module.exports = { generateImage };
